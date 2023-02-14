@@ -1,0 +1,55 @@
+h4, h5 {
+  margin-top: 30px;
+}
+
+.wait {
+  display: flex;
+  font-size: 35px;
+  height: 600px;
+  justify-content: center;
+  margin-left: 15px;
+  margin-top: 10%;
+}
+
+.container {
+  padding-left: 40px;
+  padding-right: 40px;
+  width: 100%;
+}
+
+.myContainer {
+  display: flex;
+  min-height: 800px;
+}
+
+.topSidebar {
+  background: #00bcd4;
+  height: 48px;
+}
+
+.mySidebar {
+  background: #ecf0f1;
+  border-left: 1px solid #a5c0c0;
+  height: 100%;
+}
+
+.displayValue {
+  text-align: end;
+}
+
+.myNavbar {
+  background: #00bcd4;
+  color: white;
+  font-style: italic;
+  justify-content: flex-end;
+}
+
+.mainColumn {
+  padding: 0 !important;
+}
+
+.small-container {
+  margin-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
